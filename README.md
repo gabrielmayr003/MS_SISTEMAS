@@ -8,10 +8,11 @@ O script faz uma varredura de codigos, identifica estruturas validas, organiza c
 
 Este projeto foi criado para:
 
-- identificar codigos ativos no portal analisado;
-- relacionar convenios encontrados na faixa de codigos pesquisada;
-- extrair nome do estabelecimento, classe, subclasse e cidade;
-- consolidar tudo em uma planilha Excel para analise posterior.
+- Principalmente buscar descontos dos parceiros dentro do plano funerario;
+- Identificar codigos ativos no portal analisado;
+- Relacionar convenios encontrados na faixa de codigos pesquisada;
+- Extrair nome do estabelecimento, classe, subclasse e cidade;
+- Consolidar tudo em uma planilha Excel para analise posterior.
 
 ## Como funciona
 
